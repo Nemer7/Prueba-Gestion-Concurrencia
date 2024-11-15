@@ -1,0 +1,6 @@
+@Prueba_Gestion_Concurrencia_HostAddress = http://localhost:5189
+
+GET {{Prueba_Gestion_Concurrencia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
